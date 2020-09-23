@@ -1,0 +1,8 @@
+#citadel1.py
+
+class Citadel(object):
+    def __init__(self):
+        self.__residents__ = []
+        
+    def get_all_residents(self):
+        pass
